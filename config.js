@@ -24,7 +24,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 global.caption = process.env.CAPTION || global.caption || "\n*RAJ-BOT-OFC BY RAJ-KUMAR*\nī.am https://whatsapp.com/channel/0029VaZ31elGE56hPfwhM10B" 
 
 
-global.devs = "923184474176" // Developer Contact
+global.devs = "994407122025" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "919064884766";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "994407122025,994406212730,919064884766,918371079335";
 
